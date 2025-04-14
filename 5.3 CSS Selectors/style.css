@@ -1,0 +1,26 @@
+.attribute-ol{
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+.attribute-h1 {
+ 
+  color: blueviolet;
+  font-style:italic;
+  align-content: center;
+}
+.attribute-h2 {
+  color: rgb(41, 9, 158);
+  font-style: italic;
+}
+#main{
+  color: chocolate;
+}
+p[draggable="true"]{
+  color: red;
+}
+
+*{
+  text-align: center;
+}
+/* Write your CSS below, don't change the rules above. */
